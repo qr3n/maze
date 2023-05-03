@@ -3,4 +3,4 @@ project(maze)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(maze main.cpp)
+add_executable(maze src/main.cpp)
